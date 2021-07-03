@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Minskkiter
+### Hi there 👋 I'am Minskiter
 
 <!--
 **minskiter/minskiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
